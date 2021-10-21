@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ce2ea6ca8747d3b4da247f23b5907294
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 1.unity
+    guid: dd666ee68499ec2469bb36c3223c73a8
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 2.unity
+    guid: 5e153601cd46df64988a21b61dbe652d
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 3.unity
+    guid: 445b68eccfc42554297bf58f8ae66789
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 4.unity
+    guid: 40450b51d0267744a8175b41ebdc17ce
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 5.unity
+    guid: 222c1785101acef4189997bdae6223f5
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 6.unity
+    guid: e20080e90164cd84295794b67f473018
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 7.unity
+    guid: ed364fd73da16eb498be46f4488244fc
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 8.unity
+    guid: 8626cb50d92e67141b87bce6ccca1e3e
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 9.unity
+    guid: 3b21fdfa87090c54197996c6e0659fac
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Fase 10.unity
+    guid: e09ba28d663d6224d9150036c7b90c70
+  - enabled: 1
+    path: Assets/Scenes/Fases Reais/Fase 11.unity
+    guid: 22c3ec5cbe8cd8b40815491a2c9aaa4e
+  - enabled: 1
+    path: Assets/Scenes/Fases Reais/Fase 12.unity
+    guid: 8931135f50846454a9dbb2c2160278f4
+  - enabled: 1
+    path: Assets/Scenes/Fases Reais/Fase 13.unity
+    guid: c8a8d8c9cd9e8d74daa898d08aefa1ca
+  - enabled: 1
+    path: Assets/Scenes/Fases Reais/Fase 14.unity
+    guid: 681fe57fcd2c87049895dfa293a90f4f
+  - enabled: 1
+    path: Assets/Scenes/Fases Reais/Fase 15.unity
+    guid: 30f01cd2d4238bd4c977cd0c227dea7f
+  - enabled: 1
+    path: Assets/Scenes/Fases Reais/Boss.unity
+    guid: 0b43773e4c4151b45b87ed14b2a4f206
+  - enabled: 1
+    path: Assets/Scenes/Fases Reais/Final Bom.unity
+    guid: 43172fe9a02c1a347ba0c7594ef1c4e5
+  - enabled: 1
+    path: Assets/Scenes/Fases Normais/Final Ruim.unity
+    guid: 006f09d5434748e4188a5c1a8722d110
+  m_configObjects: {}
