@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aacc07830f1bc2f458580aef114d4661, type: 3}
+  m_Name: Fase 1
+  m_EditorClassIdentifier: 
+  linhas:
+  - frases:
+    - texto: "Seja bem vindo ao jogo mais F\xC1CIL DO MUNDO"
+      pausa: 0.5
+      velocidade: 1.25
+      tom: 0
+  - frases:
+    - texto: Parece familiar?
+      pausa: 1
+      velocidade: 1
+      tom: 0

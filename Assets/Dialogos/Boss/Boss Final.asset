@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aacc07830f1bc2f458580aef114d4661, type: 3}
+  m_Name: Boss Final
+  m_EditorClassIdentifier: 
+  linhas:
+  - frases:
+    - texto: "Eu s\xF3 queria"
+      pausa: 0.5
+      velocidade: 0.75
+      tom: 0
+    - texto: " o melhor pra voc\xEA"
+      pausa: 0.5
+      velocidade: 0.75
+      tom: 0
+    - texto: ...
+      pausa: 1
+      velocidade: 0.5
+      tom: 0
+  - frases:
+    - texto: Eu falhei
+      pausa: 0.5
+      velocidade: 0.75
+      tom: 0
+    - texto: ...
+      pausa: 1
+      velocidade: 0.75
+      tom: 0
+  - frases:
+    - texto: 'Me '
+      pausa: 0.5
+      velocidade: 0.25
+      tom: 0
+    - texto: perdoe
+      pausa: 1
+      velocidade: 0.25
+      tom: 0
+    - texto: ...
+      pausa: 1
+      velocidade: 0.1
+      tom: 0
